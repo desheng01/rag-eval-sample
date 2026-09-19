@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What design pressure factor is required for gas service?",
+    "source_clause": "RB-01.2",
+    "should_abstain": false
+  },
+  {
+    "question": "How often must Critical equipment be inspected?",
+    "source_clause": "RB-02.1",
+    "should_abstain": false
+  },
+  {
+    "question": "What temperature immediately triggers a thermal lockout?",
+    "source_clause": "RB-03.1",
+    "should_abstain": false
+  },
+  {
+    "question": "How many consecutive readings are required before a thermal lockout can be reset?",
+    "source_clause": "RB-03.2",
+    "should_abstain": false
+  },
+  {
+    "question": "When must an instrument be replaced instead of adjusted for drift?",
+    "source_clause": "RB-04.2",
+    "should_abstain": false
+  },
+  {
+    "question": "How long are daily summary records retained?",
+    "source_clause": "RB-05.2",
+    "should_abstain": false
+  },
+  {
+    "question": "What approval is required for a setpoint change greater than 10 percent?",
+    "source_clause": "RB-06.1",
+    "should_abstain": false
+  },
+  {
+    "question": "How quickly must a P1 alarm be acknowledged?",
+    "source_clause": "RB-07.1",
+    "should_abstain": false
+  },
+  {
+    "question": "How many serviceable Critical spares must remain in stock?",
+    "source_clause": "RB-08.1",
+    "should_abstain": false
+  },
+  {
+    "question": "What pressure and temperature conditions cause an automatic emergency shutdown?",
+    "source_clause": "RB-09.1",
+    "should_abstain": false
+  },
+  {
+    "question": "How long must audit logs remain immutable?",
+    "source_clause": "RB-10.1",
+    "should_abstain": false
+  },
+  {
+    "question": "What happens to production changes between 20 December and 2 January?",
+    "source_clause": "RB-11.1",
+    "should_abstain": false
+  },
+  {
+    "question": "How is monthly availability calculated?",
+    "source_clause": "RB-12.1",
+    "should_abstain": false
+  },
+  {
+    "question": "When is a monthly compliance report due?",
+    "source_clause": "RB-12.3",
+    "should_abstain": false
+  },
+  {
+    "question": "What fields are required in an audit event?",
+    "source_clause": "RB-10.2",
+    "should_abstain": false
+  },
+  {
+    "question": "How much annual leave do contractors receive?",
+    "source_clause": null,
+    "should_abstain": true
+  },
+  {
+    "question": "Which bank account should be used for supplier payments?",
+    "source_clause": null,
+    "should_abstain": true
+  },
+  {
+    "question": "What is the warranty period for office furniture?",
+    "source_clause": null,
+    "should_abstain": true
+  },
+  {
+    "question": "How many parking spaces are reserved for visitors?",
+    "source_clause": null,
+    "should_abstain": true
+  },
+  {
+    "question": "What is the maximum employee commute distance?",
+    "source_clause": null,
+    "should_abstain": true
+  }
+]
